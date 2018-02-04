@@ -2,6 +2,12 @@
 
 This is a silly little demo app for an offline-first course.
 
+## Course notes
+
+You can check the notes for the course at https://github.com/gerkenv/notes/blob/master/js/ServiceWorker.md
+
+Each branch of the course contains challenges marked with TODO tags.
+
 You could run the app either using machine dependnecies, or using docker
 
 ## Running using local machine
